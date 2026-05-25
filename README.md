@@ -1,5 +1,4 @@
 # IRSMAT-2.1-
-# 🧮 IRSMat
 
 <p align="center">
   <img width="512" height="512" alt="IRSMat_icon" src="https://github.com/user-attachments/assets/6cc33469-0c6d-4b3e-805b-06f151efde13" />
@@ -7,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/версия-1.0.0-brightgreen"></a>
   <a href="#"><img src="https://img.shields.io/badge/платформа-Web%20%7C%20Android-blueviolet"></a>
   <a href="#"><img src="https://img.shields.io/badge/для%20детей-1–4%20класс-orange"></a>
 </p>
